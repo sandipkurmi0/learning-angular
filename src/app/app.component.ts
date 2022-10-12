@@ -6,6 +6,7 @@ import { Component } from '@angular/core';
   template: `
     <div class="app">
       <passenger-dashboard></passenger-dashboard>
+      <employee-dashboard></employee-dashboard>
       <!-- <h3>Airline Passengers</h3>
       <ul class="passengerList">
         <li *ngFor="let passenger of passengers; let i = index">
